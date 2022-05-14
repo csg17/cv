@@ -1,0 +1,46 @@
+#intro .name {
+    font-size: 65px !important;
+    margin-bottom: 10px;
+}
+#edu .title {
+    font-weight: bold;
+}
+#edu .advisor{
+    list-style: none;
+}
+#edu .date{
+    list-style: none;
+}
+#resume h3, p {
+    margin-bottom: 0;
+}
+#resume h3 {
+    font-size: 1.8rem;
+}
+#resume .bold {
+    font-weight: bold;
+}
+#resume a {
+    /*color: #6e6e6e;*/
+    text-decoration: underline;
+}
+#resume .award {
+    color: white;
+    background: #636363;
+    border-radius: 4px;
+    padding: 5px 8px;
+    margin-right: 4px;
+}
+
+.mb10 {
+    margin-bottom: 10px !important;
+}
+.mb20 {
+    margin-bottom: 20px !important;
+}
+.mb30 {
+    margin-bottom: 30px !important;
+}
+footer {
+    color: rgb(217, 217, 217);
+}
